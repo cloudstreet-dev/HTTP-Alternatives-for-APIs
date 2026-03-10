@@ -1,0 +1,11 @@
+[book]
+title = "HTTP Alternatives for APIs"
+authors = ["cloudstreet-dev"]
+description = "A survey of API communication protocols beyond HTTP — gRPC, MQTT, AMQP, ZeroMQ, Cap'n Proto RPC, WebSockets, SSE, and more."
+language = "en"
+src = "src"
+
+[output.html]
+site-url = "/HTTP-Alternatives-for-APIs/"
+git-repository-url = "https://github.com/cloudstreet-dev/HTTP-Alternatives-for-APIs"
+git-repository-icon = "fa-github"
