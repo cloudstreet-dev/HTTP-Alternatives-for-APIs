@@ -8,4 +8,3 @@ src = "src"
 [output.html]
 site-url = "/HTTP-Alternatives-for-APIs/"
 git-repository-url = "https://github.com/cloudstreet-dev/HTTP-Alternatives-for-APIs"
-git-repository-icon = "fa-github"
