@@ -1,5 +1,7 @@
 # Summary
 
+- [Acknowledgments](./acknowledgments.md)
+
 - [The Default We Never Questioned](./ch01-the-default-we-never-questioned.md)
 - [gRPC — HTTP/2 in a Convincing Costume](./ch02-grpc.md)
 - [WebSockets and SSE — When You Need the Server to Talk Back](./ch03-websockets-sse.md)
